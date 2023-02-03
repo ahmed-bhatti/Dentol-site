@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .owl-drag .owl-nav > .owl-prev{
+    position: relative;
+    left: 0px;
+    display: block;
+    background-color: red;
+    padding-left: 30px;
+}
+ .owl-drag .owl-nav > .owl-next{
+    position: relative;
+    right: 0px;
+    display: block;
+    background-color: red;
+    padding-right: 30px;
+}
+.owl-nav{
+    
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.owl-drag .owl-nav > .owl-prev{
+    position: relative;
+    left: 0px;
+    display: block;
+    background-color: red;
+    padding-left: 30px;
+}
+ .owl-drag .owl-nav > .owl-next{
+    position: relative;
+    right: 0px;
+    display: block;
+    background-color: red;
+    padding-right: 30px;
+} */
